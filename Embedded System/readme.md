@@ -1,1 +1,0 @@
-about Embedded System
